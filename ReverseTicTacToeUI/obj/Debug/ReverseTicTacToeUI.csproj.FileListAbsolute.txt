@@ -1,0 +1,11 @@
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\obj\Debug\ReverseTicTacToeUI.csproj.AssemblyReference.cache
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\obj\Debug\ReverseTicTacToeUI.csproj.CoreCompileInputs.cache
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\bin\Debug\ReverseTicTacToeUI.exe.config
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\bin\Debug\ReverseTicTacToeUI.exe
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\bin\Debug\ReverseTicTacToeUI.pdb
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\bin\Debug\ReverseTicTacToe.dll
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\bin\Debug\ReverseTicTacToe.pdb
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\bin\Debug\ReverseTicTacToe.dll.config
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\obj\Debug\ReverseTicTacToeUI.csproj.CopyComplete
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\obj\Debug\ReverseTicTacToeUI.exe
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToeUI\obj\Debug\ReverseTicTacToeUI.pdb

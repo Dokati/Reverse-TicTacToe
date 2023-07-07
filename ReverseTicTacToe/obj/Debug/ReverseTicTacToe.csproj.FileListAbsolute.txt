@@ -1,0 +1,7 @@
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToe\bin\Debug\ReverseTicTacToe.dll.config
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToe\bin\Debug\ReverseTicTacToe.dll
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToe\bin\Debug\ReverseTicTacToe.pdb
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.csproj.AssemblyReference.cache
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.dll
+C:\Users\Dor\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\לימודים\שנה ג'\סמסטר ב\סי שארפ\ex5\tictactoe with design\1\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.pdb
