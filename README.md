@@ -14,6 +14,6 @@ In order to run the game you should have:
 4. Start and Enjoy!
 
 ## Its Demo Time 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80786728/175310206-b51a32e0-d4f7-45a3-8757-8bdc757f0caf.gif)
+![ezgif com-gif-maker (2)](https://i.imgur.com/wvwfjqD.gif)
 
 #### made by [Dor Katirachi](https://github.com/Dokati) & [Patrisia Kaplun](https://github.com/PatrisiaKaplun)
